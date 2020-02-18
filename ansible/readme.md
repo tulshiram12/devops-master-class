@@ -18,7 +18,7 @@
 - Step 15 - Providing Declarative Configuration with Ansible
 - Step 16 - Deleting all AWS EC2 Instances
 
-### Prerequisites
+####### Prerequisites
 - 3 EC2 Instances 
     - 2 using Terraform
     - 1 Manually
